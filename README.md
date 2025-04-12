@@ -8,7 +8,7 @@
 
 ## 关于我
 - 中文昵称：风绘
-- GitHub ID：LCQFH
+- GitHub ID：CN-LCQFH
 - 精通技能：Markdown, Java, Minecraft
 - 个人理念：简洁、高效、优雅
 
